@@ -1,4 +1,4 @@
-# Confluence-to-markdown
+# Confluence-2-markdown
 
 A Python script to retrieve Confluence page content via REST API and convert it to Markdown, including:
 
